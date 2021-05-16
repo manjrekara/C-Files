@@ -1,7 +1,3 @@
-// Atharva Manjrekar
-// ECE 1101 - HW5
-// Dr. Chandy
-
 #include "Matrix.h"
 #include <stdio.h>
 
