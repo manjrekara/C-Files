@@ -1,7 +1,3 @@
-// Atharva Manjrekar
-// Dr. Chandy
-// ECE1101: Homework 2
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
